@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>491366954477-nrghhcodmhe4h2tttdh1j1tbp4r9aes3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.491366954477-nrghhcodmhe4h2tttdh1j1tbp4r9aes3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAcummMLd0tJ8s7B1uclhtsgH39dEd1zDc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>491366954477</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jcf.snapchatclone</string>
+	<key>PROJECT_ID</key>
+	<string>snapchatclone-c2cd6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>snapchatclone-c2cd6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:491366954477:ios:5f188274c5c28772</string>
+	<key>DATABASE_URL</key>
+	<string>https://snapchatclone-c2cd6.firebaseio.com</string>
+</dict>
+</plist>
