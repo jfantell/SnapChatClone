@@ -24,10 +24,13 @@ git clone https://github.com/jfantell/snapchatclone.git
 ```
 
 Once the repo is cloned to the machine, open it. Locate the file "snapchatclone.xcworkspace"
+
 *Note: Make sure to open the "snapchatclone.xcworkspace" file, not the "snapchatclone.xcodeproj"
 file*
 
+##Run##
 
+In Xcode, choose a device to simulate. Then, click run and you are good to go!
 
 
 
