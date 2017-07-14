@@ -5,6 +5,9 @@
       location = "group:snapchatclone.xcodeproj">
    </FileRef>
    <FileRef
+      location = "group:/Users/john/Documents/snapchatclone/Pods/Pods.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Pods/Pods.xcodeproj">
    </FileRef>
 </Workspace>

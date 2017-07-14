@@ -24,6 +24,11 @@ class SignInViewController: UIViewController {
                     }
                     else{
                         print("Created user successfully")
+                        //Add user into database
+                        let users = Database.database().reference().child("users")
+                        
+                    users.child(user!.uid).child("email").setValue(user!.email!)
+                        
                         self.performSegue(withIdentifier: "SignInSegue", sender: nil)
                     }
                 }
